@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-catalog-viewer/static/css/main.437fac0c.chunk.css",
+    "main.js": "/react-catalog-viewer/static/js/main.55cc41b6.chunk.js",
+    "main.js.map": "/react-catalog-viewer/static/js/main.55cc41b6.chunk.js.map",
+    "runtime-main.js": "/react-catalog-viewer/static/js/runtime-main.cf6aea0d.js",
+    "runtime-main.js.map": "/react-catalog-viewer/static/js/runtime-main.cf6aea0d.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/react-catalog-viewer/static/js/stencil-h8k-logo_2-entry-js.12bb3d33.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/react-catalog-viewer/static/js/stencil-h8k-logo_2-entry-js.12bb3d33.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/react-catalog-viewer/static/js/stencil-polyfills-css-shim.dd5da22d.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/react-catalog-viewer/static/js/stencil-polyfills-css-shim.dd5da22d.chunk.js.map",
+    "static/css/4.f3ad453d.chunk.css": "/react-catalog-viewer/static/css/4.f3ad453d.chunk.css",
+    "static/js/4.00e3d9f7.chunk.js": "/react-catalog-viewer/static/js/4.00e3d9f7.chunk.js",
+    "static/js/4.00e3d9f7.chunk.js.map": "/react-catalog-viewer/static/js/4.00e3d9f7.chunk.js.map",
+    "static/js/5.53fdd67b.chunk.js": "/react-catalog-viewer/static/js/5.53fdd67b.chunk.js",
+    "static/js/5.53fdd67b.chunk.js.map": "/react-catalog-viewer/static/js/5.53fdd67b.chunk.js.map",
+    "static/js/6.9caee2e7.chunk.js": "/react-catalog-viewer/static/js/6.9caee2e7.chunk.js",
+    "static/js/6.9caee2e7.chunk.js.map": "/react-catalog-viewer/static/js/6.9caee2e7.chunk.js.map",
+    "index.html": "/react-catalog-viewer/index.html",
+    "precache-manifest.7be36cf406c602af5c331d9ee8fb97df.js": "/react-catalog-viewer/precache-manifest.7be36cf406c602af5c331d9ee8fb97df.js",
+    "service-worker.js": "/react-catalog-viewer/service-worker.js",
+    "static/css/4.f3ad453d.chunk.css.map": "/react-catalog-viewer/static/css/4.f3ad453d.chunk.css.map",
+    "static/css/main.437fac0c.chunk.css.map": "/react-catalog-viewer/static/css/main.437fac0c.chunk.css.map",
+    "static/js/4.00e3d9f7.chunk.js.LICENSE.txt": "/react-catalog-viewer/static/js/4.00e3d9f7.chunk.js.LICENSE.txt",
+    "static/js/5.53fdd67b.chunk.js.LICENSE.txt": "/react-catalog-viewer/static/js/5.53fdd67b.chunk.js.LICENSE.txt",
+    "static/media/green-light-candle.jpeg": "/react-catalog-viewer/static/media/green-light-candle.045f594e.jpeg",
+    "static/media/pink-light-candle.jpeg": "/react-catalog-viewer/static/media/pink-light-candle.c82bfc12.jpeg",
+    "static/media/tea-light-candle.jpeg": "/react-catalog-viewer/static/media/tea-light-candle.cef394ab.jpeg",
+    "static/media/white-light-candle.jpg": "/react-catalog-viewer/static/media/white-light-candle.29140f80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf6aea0d.js",
+    "static/css/4.f3ad453d.chunk.css",
+    "static/js/4.00e3d9f7.chunk.js",
+    "static/css/main.437fac0c.chunk.css",
+    "static/js/main.55cc41b6.chunk.js"
+  ]
+}
